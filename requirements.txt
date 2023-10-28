@@ -1,0 +1,12 @@
+fastapi
+requests
+unidecode
+uvicorn
+sqlmodel
+numpy
+scipy
+pandas
+scikit-learn
+psycopg2
+sqlalchemy
+psycopg2-binary
